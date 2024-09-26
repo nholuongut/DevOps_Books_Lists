@@ -173,4 +173,11 @@ Initially created by [Nho Luong](https://github.com/nholuongut/) on [Linkedin](h
 
 * [Wavestone Devops](/Wavestone%20devops.pdf) 
 
-## Thanks
+### [Contact an Author]
+* [Name: nho Luong]
+* [Skype](luongutnho_skype)
+* [Github](https://github.com/nholuongut/)
+* [Linkedin](https://www.linkedin.com/in/nholuong/)
+* [Email Address](luongutnho@hotmail.com) 
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
